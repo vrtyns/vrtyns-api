@@ -1,32 +1,34 @@
-[
-  {
+{
+  "posts": [
+    {
     "userId": 1,
     "title": "Modern Chair",
     "body": "Comfortable and stylish modern chair.",
-    "imageURL": "**"
-  },
-  {
+    "imageURL": "https://link-to-your-image1"
+    },
+    {
     "userId": 2,
     "title": "Wooden Desk",
     "body": "A sleek and durable wooden desk.",
-    "imageURL": "**"
-  },
-  {
+    "imageURL": "https://link-to-your-image2"
+    },
+    {
     "userId": 3,
     "title": "Leather Sofa",
     "body": "A luxurious leather sofa with a modern design.",
-    "imageURL": "**"
-  },
-  {
+    "imageURL": "https://link-to-your-image3"
+    },
+    {
     "userId": 4,
     "title": "Table Lamp",
     "body": "A classic table lamp with adjustable brightness.",
-    "imageURL": "**"
-  },
-  {
+    "imageURL": "https://link-to-your-image4"
+    },
+    {
     "userId": 5,
     "title": "Bookshelf",
     "body": "Spacious bookshelf with multiple compartments.",
-    "imageURL": "**"
-  }
-]
+    "imageURL": "https://link-to-your-image5"
+    }
+  ]
+}
