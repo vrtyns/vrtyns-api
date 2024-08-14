@@ -1,33 +1,33 @@
 {
   "posts": [
     {
-    "userId": 1,
+    "thingId": 1,
     "title": "Modern Chair",
-    "body": "Comfortable and stylish modern chair.",
+    "details": "Comfortable and stylish modern chair.",
     "imageURL": "https://i.pinimg.com/originals/a8/98/b0/a898b0c8f97af49ce45cee9b76bfb687.jpg"
     },
     {
-    "userId": 2,
+    "thingId": 2,
     "title": "Wooden Desk",
-    "body": "A sleek and durable wooden desk.",
+    "details": "A sleek and durable wooden desk.",
     "imageURL": "https://i5.walmartimages.com/asr/994a5ae7-0960-41aa-b967-04d8c55c57dc_2.10e8a99f62b7420829441e840a4905f2.jpeg"
     },
     {
-    "userId": 3,
+    "thingId": 3,
     "title": "Leather Sofa",
-    "body": "A luxurious leather sofa with a modern design.",
+    "details": "A luxurious leather sofa with a modern design.",
     "imageURL": "https://th.bing.com/th/id/R.b026ae33a98adb4fc2cac7dc62c84a66?rik=4eWvvPh9wXiJaA&pid=ImgRaw&r=0"
     },
     {
-    "userId": 4,
+    "thingId": 4,
     "title": "Table Lamp",
-    "body": "A classic table lamp with adjustable brightness.",
+    "details": "A classic table lamp with adjustable brightness.",
     "imageURL": "https://th.bing.com/th/id/OIP.ZFRp19-j7iS5TsjZhHqU_QHaHa?rs=1&pid=ImgDetMain"
     },
     {
-    "userId": 5,
+    "thingId": 5,
     "title": "Bookshelf",
-    "body": "Spacious bookshelf with multiple compartments.",
+    "details": "Spacious bookshelf with multiple compartments.",
     "imageURL": "https://assets.wfcdn.com/im/43808204/compr-r85/2473/247351031/oscer-bookshelf-industrial-5-tier-etagere-bookcase-bookshelves-for-living-room-bedroom.jpg"
     }
   ]
